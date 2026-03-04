@@ -17,17 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m a third-year Ph.D. candidate at ShanghaiTech University, where I’m part of the [PLUS](https://plus.sist.shanghaitech.edu.cn) under the mentorship of Prof. [Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html). I completed my B.Sc. at ShanghaiTech in 2022, and I’ve also had the chance to dive into research as an intern at the Shanghai AI Lab.
+Hello! I’m a forth-year Ph.D. candidate at ShanghaiTech University, where I’m part of the [PLUS](https://plus.sist.shanghaitech.edu.cn) under the mentorship of Prof. [Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html). I completed my B.Sc. at ShanghaiTech in 2022, and I’ve also had the chance to dive into research as an intern at the Shanghai AI Lab.
 
 I’m passionate about Multimodal Learning and Data-centric AI. My current work revolves around **multimodal large language models**, **knowledge transfer**, and **human-object interaction detection**. I’m excited to keep pushing the boundaries in these areas.
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 one papers accepted by AAAI 2024
-- *2023.06*: I attended the CVPR23 conference and gave a poster presentation.
-- *2023.02*: &nbsp;🎉🎉 one papers accepted by CVPR 2023
+- *2026.02*: &nbsp;🎉🎉 one papers accepted by CVPR 2026
+- *2026.02*: &nbsp;🎉🎉 one papers accepted by ICLR 2026
 
 # 📝 Publications
 \*Equal contribution
+- [Wiki-R1: Incentivizing Multimodal Reasoning for Knowledge-based VQA via Data and Sampling Curriculum]()<br>**Shan Ning**, Longtian Qiu, Xuming He, **ICLR26**
+- [WikiCLIP: An Efficient Contrastive Baseline for Open-domain Visual Entity Recognition]()<br>**Shan Ning**, Longtian Qiu, Jiaxuan Sun, Xuming He, **CVPR26**
+- [NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation](https://arxiv.org/pdf/2510.21122)<br>Longtian Qiu, **Shan Ning**, Jiaxuan Sun, Xuming He, **NIPS25**
+- [DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucinations](https://arxiv.org/pdf/2601.00623)<br>Longtian Qiu, **Shan Ning**, Chuyu Zhang, Jiaxuan Sun, Xuming He, **TMLR**
 - [Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training](https://arxiv.org/abs/2401.02347)<br>Longtian Qiu\*, **Shan Ning\***, Xuming He, **AAAI 2024**
 - [HOICLIP: Efficient Knowledge Transfer for HOI Detection with Vision-Language Models](https://arxiv.org/abs/2303.15786)**Shan Ning\***, Longtian Qiu\*, Xuming He, **CVPR 2023**
 
