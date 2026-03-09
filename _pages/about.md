@@ -32,7 +32,7 @@ I’m passionate about Multimodal Learning and Data-centric AI. My current work 
 - [NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation](https://arxiv.org/pdf/2510.21122)<br>Longtian Qiu, **Shan Ning**, Jiaxuan Sun, Xuming He, **NIPS25**
 - [DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucinations](https://arxiv.org/pdf/2601.00623)<br>Longtian Qiu, **Shan Ning**, Chuyu Zhang, Jiaxuan Sun, Xuming He, **TMLR**
 - [Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training](https://arxiv.org/abs/2401.02347)<br>Longtian Qiu\*, **Shan Ning\***, Xuming He, **AAAI 2024**
-- [HOICLIP: Efficient Knowledge Transfer for HOI Detection with Vision-Language Models](https://arxiv.org/abs/2303.15786)**Shan Ning\***, Longtian Qiu\*, Xuming He, **CVPR 2023**
+- [HOICLIP: Efficient Knowledge Transfer for HOI Detection with Vision-Language Models](https://arxiv.org/abs/2303.15786)<br>**Shan Ning\***, Longtian Qiu\*, Xuming He, **CVPR 2023**
 
 [//]: # (# 🎖 Honors and Awards)
 
