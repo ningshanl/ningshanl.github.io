@@ -27,7 +27,7 @@ I’m passionate about Multimodal Learning and Data-centric AI. My current work 
 
 # 📝 Publications
 \*Equal contribution
-- [Wiki-R1: Incentivizing Multimodal Reasoning for Knowledge-based VQA via Data and Sampling Curriculum]()<br>**Shan Ning**, Longtian Qiu, Xuming He, **ICLR26**
+- [Wiki-R1: Incentivizing Multimodal Reasoning for Knowledge-based VQA via Data and Sampling Curriculum](https://arxiv.org/pdf/2603.05256)<br>**Shan Ning**, Longtian Qiu, Xuming He, **ICLR26**
 - [WikiCLIP: An Efficient Contrastive Baseline for Open-domain Visual Entity Recognition]()<br>**Shan Ning**, Longtian Qiu, Jiaxuan Sun, Xuming He, **CVPR26**
 - [NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation](https://arxiv.org/pdf/2510.21122)<br>Longtian Qiu, **Shan Ning**, Jiaxuan Sun, Xuming He, **NIPS25**
 - [DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucinations](https://arxiv.org/pdf/2601.00623)<br>Longtian Qiu, **Shan Ning**, Chuyu Zhang, Jiaxuan Sun, Xuming He, **TMLR**
